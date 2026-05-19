@@ -2,6 +2,9 @@ body {
 	background-color: white;
 	color: black;
 	font-family: serif;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -26,7 +29,7 @@ li {
 
 footer {
 	font-family: sans-serif;
-	font-weight: bold;
+	margin-top: auto;
 }
 
 #fent-header {
