@@ -9,6 +9,13 @@ body {
 	cursor: url('/Images/cursor_normal.png'), auto;
 }
 
+#netcat-header-a:hover {
+	cursor: url('/Images/cursor_grab.png'), auto;
+	background-color: transparent;
+	color: transparent;
+	text-decoration: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: sans-serif;
 }
@@ -39,10 +46,7 @@ footer {
 	margin-top: auto;
 }
 
-#netcat-header-a:hover {
-	cursor: url('/Images/cursor_grab.png'), auto;
-	background-color: transparent;
-	color: transparent;
-	text-decoration: none;
+#netcat-ring-img {
+	height: 1em;
 }
 
