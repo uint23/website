@@ -1,10 +1,12 @@
 body {
-	background-color: white;
-	color: black;
+	background-color: #776ecc;
+	color: white;
 	font-family: serif;
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
+
+	cursor: url('/Images/cursor_normal.png'), auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -12,13 +14,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-	color: #1e4387;
+	color: white;
 	text-decoration: underline;
 }
 
 a:hover {
-	color: white;
-	background-color: #1e4387;
+	cursor: url('/Images/cursor_grab.png'), auto;
+	color: #776ecc;
+	background-color: white;
 	text-decoration: none;
 }
 
@@ -27,18 +30,19 @@ li {
 	font-family: sans-serif;
 }
 
+code {
+	font-family: monospace;
+}
+
 footer {
 	font-family: sans-serif;
 	margin-top: auto;
 }
 
-#fent-header {
-	font-family: serif;
-	font-style: italic;
-	font-size: 24pt;
-}
-
-#fent-header-a {
+#netcat-header-a:hover {
+	cursor: url('/Images/cursor_grab.png'), auto;
+	background-color: transparent;
+	color: transparent;
 	text-decoration: none;
 }
 
