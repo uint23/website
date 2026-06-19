@@ -1,6 +1,6 @@
 body {
-	background-color: #776ecc;
-	color: white;
+	background-color: white;
+	color: black;
 	font-family: serif;
 	display: flex;
 	flex-direction: column;
@@ -21,14 +21,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-	color: white;
+	color: black;
 	text-decoration: underline;
+	text-decoration-style: wavy;
 }
 
 a:hover {
 	cursor: url('/Images/cursor_grab.png'), auto;
-	color: #776ecc;
-	background-color: white;
+	color: white;
+	background-color: black;
 	text-decoration: none;
 }
 
