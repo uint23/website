@@ -5,6 +5,8 @@ body {
 	display: flex;
 	flex-direction: column;
 	margin: 0;
+	padding: 1rem;
+	box-sizing: border-box;
 	min-height: 100vh;
 
 	cursor: url('/Images/cursor_normal.png'), auto;
