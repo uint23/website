@@ -24,15 +24,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-	color: #487bc9;
+	color: white;
+	background-color: #487bc9;
 	text-decoration: underline;
 	text-decoration-style: wavy;
 }
 
 a:hover {
 	cursor: url('/Images/cursor_grab.png'), auto;
-	color: white;
-	background-color: #487bc9;
+	color: #487bc9;
+	background-color: white;
 	text-decoration: none;
 }
 
