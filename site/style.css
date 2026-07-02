@@ -24,16 +24,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-	color: white;
-	background-color: #487bc9;
+	color: #487bc9;
 	text-decoration: underline;
 	text-decoration-style: wavy;
 }
 
 a:hover {
 	cursor: url('/Images/cursor_grab.png'), auto;
-	color: #487bc9;
-	background-color: white;
+	color: white;
+	background-color: #487bc9;
 	text-decoration: none;
 }
 
@@ -50,8 +49,3 @@ footer {
 	font-family: serif;
 	margin-top: auto;
 }
-
-#netcat-ring-img {
-	height: 1em;
-}
-
