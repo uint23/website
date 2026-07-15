@@ -8,8 +8,6 @@ body {
 	padding: 1rem;
 	box-sizing: border-box;
 	min-height: 100vh;
-
-	cursor: url('/Images/cursor_normal.png'), auto;
 }
 
 #netcat-header-a:hover {
