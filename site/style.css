@@ -8,6 +8,7 @@ body {
 	padding: 1rem;
 	box-sizing: border-box;
 	min-height: 100vh;
+	max-width: 60%;
 }
 
 #netcat-header-a:hover {
@@ -23,8 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
 	color: #487bc9;
-	text-decoration: underline;
-	text-decoration-style: wavy;
+	text-decoration: none;
 }
 
 a:hover {
@@ -43,7 +43,13 @@ code {
 	font-family: monospace;
 }
 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
 footer {
 	font-family: serif;
 	margin-top: auto;
 }
+
