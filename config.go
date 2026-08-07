@@ -1,8 +1,8 @@
 package main
 
-const SiteTitle = "fent.uk"
+const SiteTitle = "netcat::uk"
 const FooterText = "☧"
 const TemplateFile = "template.html"
 const NavDirSymbol = "/"
 const NavFileSymbol = ""
-const NavCurrentSymbol = "> "
+const NavCurrentSymbol = "  ?"

@@ -12,7 +12,7 @@ body {
 }
 
 #netcat-header-a:hover {
-	cursor: url('/Images/cursor_grab.png'), auto;
+	cursor: url('/Images/SiteStuff/cursor_grab.png'), auto;
 	background-color: transparent;
 	color: transparent;
 	text-decoration: none;
@@ -28,7 +28,7 @@ a {
 }
 
 a:hover {
-	cursor: url('/Images/cursor_grab.png'), auto;
+	cursor: url('/Images/SiteStuff/cursor_grab.png'), auto;
 	color: white;
 	background-color: #487bc9;
 	text-decoration: none;

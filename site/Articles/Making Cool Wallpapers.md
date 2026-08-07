@@ -4,7 +4,7 @@ _Last Updated: *16/07/2026*_
 > Some of my explanations may be confusing. Play around to see what I'm talking
 > about!
 
-![TopCollage](/Images/MakingCoolWallpapersTopCollage.png)
+![TopCollage](/Images/MakingCoolWallpapers/TopCollage.png)
 
 Many people have asked me, over the time I've been posting my computer setup,
 how they too can replicate the "bi/tri-chrome" wallpaper aesthetic that many of
@@ -40,7 +40,7 @@ For me, it's 1280x1024 or 1024x768 (because thats what I use on my monitors).
 There are two ways I get that sharp-edged, bi-chromed look that I know of:
 
 #### PNG Compression
-![ExportingPNG](/Images/MakingCoolWallpapersExportingPNG.png)
+![ExportingPNG](/Images/MakingCoolWallpapers/ExportingPNG.png)
 
 If you paste an image into your canvas and try export it as PNG _([File >
 Export as > PNG] or [Ctrl + Alt + Shift + S])_, you can see a slider for the
@@ -49,10 +49,10 @@ are only 2 colors in the pallete. Turning this slider up, you can see more
 color being restored to the image--I usually keep between 0-2%. The reason we only use PNGs (or GIFs)
 is because the color pallete gets reduced; at 0%, every color gets quantized.
 
-![PNGCompare](/Images/MakingCoolWallpapersPNGCompare.png)
+![PNGCompare](/Images/MakingCoolWallpapers/PNGCompare.png)
 
 #### Note Paper Filter
-![ExportingNotePaper](/Images/MakingCoolWallpapersExportingNotePaper.png)
+![ExportingNotePaper](/Images/MakingCoolWallpapers/ExportingNotePaper.png)
 
 **While selecting the image layer**, you can do _[Filter > Filter Gallery... >
 Note Paper]_ then reduce the _Relief_ and _Graininess_ to 0. This will leave
@@ -64,10 +64,10 @@ slider to see how the image reacts.
 > alpha to that of the color (should be 255). [See The Paint Bucket
 > Tool](#the-paint-bucket-tool)).
 
-![NotePaperCompare](/Images/MakingCoolWallpapersNotePaperCompare.png)
+![NotePaperCompare](/Images/MakingCoolWallpapers/NotePaperCompare.png)
 
 ### The Paint Bucket Tool
-![PaintBucketBar](/Images/MakingCoolWallpapersPaintBucketBar.png)
+![PaintBucketBar](/Images/MakingCoolWallpapers/PaintBucketBar.png)
 
 You now have your image, but what if you don't like the colors? By pressing the
 paintbucket icon, or _G_, you can access the paint bucket tool. Try copying the
@@ -109,7 +109,7 @@ diverse, having a floor, trees and sky.
 A good usecase is for removing the background of fake-transparent or
 white background images, which you may want to collage into your image.
 
-![FakeImage](/Images/MakingCoolWallpapersFakeImage.png)
+![FakeImage](/Images/MakingCoolWallpapers/FakeImage.png)
 
 > Another way is exporting the image with a ~2% quality then removing the
 > background colors then re-exporting it, but that almost always more effort.
@@ -123,12 +123,12 @@ bleeds into the subject, find the part where the image which has a hole and
 color it in. To color, select the _Brush Tool_ or press _B_, right click and
 set to _Pencil_.
 
-![EraserBar](/Images/MakingCoolWallpapersEraserBar.png)
+![EraserBar](/Images/MakingCoolWallpapers/EraserBar.png)
 
 Now you can erase. Select the _Erasor Tool_ or press _E_ and set it to _Pencil_
 mode. Now you can erase away until you have just the subject left!
 
-![RemovedBackground](/Images/MakingCoolWallpapersRemovedBackground.png)
+![RemovedBackground](/Images/MakingCoolWallpapers/RemovedBackground.png)
 
 ### Preparing Images Separately
 Sometimes, we may want more than 1 image with their own palletes in a mix. Just
@@ -141,11 +141,11 @@ like Instrument Serif or one of the \*Tex fonts), write your message.
 
 Now select it all and set the _Aa_ to _None_.
 
-![NoAAText](/Images/MakingCoolWallpapersNoAAText.png)
+![NoAAText](/Images/MakingCoolWallpapers/NoAAText.png)
 
 ### The Final Image
 Now simply create a new layer and paint it whatever color you want and layer
 your image(s) on top!
 
-![Final](/Images/MakingCoolWallpapersFinal.png)
+![Final](/Images/MakingCoolWallpapers/Final.png)
 
