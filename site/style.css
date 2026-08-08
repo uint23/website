@@ -8,7 +8,7 @@ body {
 	padding: 1rem;
 	box-sizing: border-box;
 	min-height: 100vh;
-	max-width: 60%;
+	max-width: 600px;
 }
 
 #side-bar a {

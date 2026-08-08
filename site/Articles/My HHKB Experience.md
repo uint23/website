@@ -2,7 +2,7 @@
 _Last Updated: *07/08/2026*_
 
 ![MainCompressed](/Images/MyHHKBExperience/MainCompressed.jpg)  
-[_[Original](/Images/MyHHKBExperience/Main.jpg)_] _I actually layered a few
+[_[Original Image](/Images/MyHHKBExperience/Main.jpg)_] _I actually layered a few
 images together as just one image would either blow out the keys in direct
 sunlight or make the background very dark!_
 
