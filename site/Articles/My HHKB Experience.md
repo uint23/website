@@ -1,5 +1,5 @@
 ## My HHKB Experience
-_Last Updated: *07/08/2026*_
+_Last Updated: *10/08/2026*_
 
 ![MainCompressed](/Images/MyHHKBExperience/MainCompressed.jpg)  
 [_[Original Image](/Images/MyHHKBExperience/Main.jpg)_] _I actually layered a few
@@ -102,8 +102,24 @@ bit less natural when writing articles like this.
 </li>
 </ul>
 
-These are all changes that I don't like being an English speaker, I presume
+These are some changes that I don't like being an English speaker, I presume
 that Japanese speakers don't have some of these problems.
 
 ![JapaneseKeyboard](/Images/MyHHKBExperience/JapaneseKeyboard.png)
+
+###  Day Two: [_08/08/2026_]
+
+Today I'm quite busy but I have made a few changes. Firstly, I would like to
+mention that I don't like the `+` placement on the Japanese layout. I would
+rather `+=` and `-_` be under next to each other as they are common keys when
+programming.
+
+And because I had such difficulties with getting to underscore, I decided to
+remap the Hiragana/Katatakana/Romaji key to underscore. It feels so much better
+than having to reach to next to shift!
+
+I also had the delight of being able to play Minecraft with this keyboard
+today. I can't really say much, other than it felt fine for gaming and didn't
+get in the way. I also didn't have any [key
+rollover](https://en.wikipedia.org/wiki/Key_rollover) which is nice.
 
