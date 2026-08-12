@@ -13,8 +13,8 @@ be two days, who knows!
 
 Around a week ago, I ordered a HHKB Lite2 to be imported from Japan. For a long
 time, I've wanted a HHKB, but when I checked, they were all ludicrously
-expensive. Thats until my friend showed me how I could get one for just ~£15
-(¥3,200). I bought one shortly after that.
+expensive. Thats until [my friend](https://exotya.worthless.love) showed me how
+I could get one for just ~£15 (¥3,200). I bought one shortly after that.
 
 Now the keyboard isn't a "proper" HHKB with the Topre switches and has membrane
 instead, but I don't think that really matters as I prefer the sound of
@@ -122,6 +122,4 @@ I also had the delight of being able to play Minecraft with this keyboard
 today. I can't really say much, other than it felt fine for gaming and didn't
 get in the way. I also didn't have any [key
 rollover](https://en.wikipedia.org/wiki/Key_rollover) which is nice.
-
-- link exotya
 
