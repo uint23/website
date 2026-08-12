@@ -16,10 +16,10 @@ body {
 }
 
 #netcat-header-a {
-	border: 0px solid #000;
+	text-decoration: none;
+	text-decoration: none;
 }
 #netcat-header-a:hover {
-	cursor: url('/Images/SiteStuff/cursor_grab.png'), auto;
 	border: 0px solid #000;
 	background-color: transparent;
 	color: transparent;
@@ -33,7 +33,6 @@ h1, h2, h3, h4, h5, h6 {
 a {
 	display: inline-block;
 	color: #487bc9;
-	border: 1px solid #487bc9;
 	padding: 0;
 	line-height: 1;
 	text-decoration: none;

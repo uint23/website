@@ -123,3 +123,5 @@ today. I can't really say much, other than it felt fine for gaming and didn't
 get in the way. I also didn't have any [key
 rollover](https://en.wikipedia.org/wiki/Key_rollover) which is nice.
 
+- link exotya
+
