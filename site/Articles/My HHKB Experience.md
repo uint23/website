@@ -1,5 +1,5 @@
 ## My HHKB Experience
-_Last Updated: *10/08/2026*_
+_Last Updated: *14/08/2026*_
 
 ![MainCompressed](/Images/MyHHKBExperience/MainCompressed.jpg)  
 [_[Original Image](/Images/MyHHKBExperience/Main.jpg)_] _I actually layered a few
@@ -9,7 +9,7 @@ sunlight or make the background very dark!_
 ### Overview
 This article covers my seven days with my new HHKB Lite2 keyboard. I've
 basically "journaled" any day I've wanted to update this blog so there may just
-be two days, who knows!
+be two logs, who knows!
 
 Around a week ago, I ordered a HHKB Lite2 to be imported from Japan. For a long
 time, I've wanted a HHKB, but when I checked, they were all ludicrously
@@ -121,5 +121,15 @@ than having to reach to next to shift!
 I also had the delight of being able to play Minecraft with this keyboard
 today. I can't really say much, other than it felt fine for gaming and didn't
 get in the way. I also didn't have any [key
-rollover](https://en.wikipedia.org/wiki/Key_rollover) which is nice.
+rollover](https://en.wikipedia.org/wiki/Key_rollover) which is a plus.
+
+###  Day Seven: [_14/08/2026_]
+
+It seems I made _three_ logs, not two; I didn't feel the need to log the
+previous days or! Anyways, here is my conclusion:
+
+Overall I've really enjoyed using this keyboard; despite being membrane, it has
+the perfect tactility, I prefer the layout and it's much nicer than those 104
+key keboards. For ~£15 I think it's definately worth it and I hope to use this
+for years on.
 
