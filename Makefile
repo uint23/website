@@ -16,7 +16,9 @@ all:
 			  } else print; \
 			}' ${TEMPLATE} > ${OUT}/"$$name" || exit 1; \
 	done
-	@cd ${SOURCE} && find Images -type f ! -iname '*.psd' -print | pax -rw ../${OUT}
+	@cd ${SOURCE} && find Images -type f ! -name '*.psd' -exec sh -c ' \
+		f=$$1; mkdir -p "../${OUT}/$${f%/*}" && cp "$$f" "../${OUT}/$$f" \
+	' sh {} \;
 	@for css in ${SOURCE}/*.css; do \
 		[ ! -f "$$css" ] || cp "$$css" ${OUT}/; \
 	done
